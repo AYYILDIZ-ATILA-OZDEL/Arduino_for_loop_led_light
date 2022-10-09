@@ -7,6 +7,7 @@ void setup() {
   {
   pinMode(ledler[i], OUTPUT);
     
+    
   }
 }
 void loop()
