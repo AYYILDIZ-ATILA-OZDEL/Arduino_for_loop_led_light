@@ -10,6 +10,7 @@ void setup() {
   }
 }
 void loop()
+  
 {
 
   for (int i =0;i<10;i++)//Ledlerimizin 1. sıradan başlayarak son ledimize kadar 200ms aralıklarla yakılmasını sağlıyoruz.
